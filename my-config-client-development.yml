@@ -1,3 +1,2 @@
-spring.profiles.active=dino
-user.role=User
-user.role=Developer
+#user.role: User
+user.role: Developer
